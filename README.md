@@ -1,7 +1,6 @@
 ### Olá! eu sou o Giovani Taveira
 
-- 🔭 Sou estudante de desenvolvimento backend
-- 🌱 Estou estudando atualmente sobre APIs Rest, ASP.NET Core
+- 🔭 Sou desenvolvedor fullstack .Net com 3 anos de experiência
 
 <div align="center">
   <a href="https://github.com/giovani-taveira">
